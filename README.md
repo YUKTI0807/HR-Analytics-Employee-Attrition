@@ -59,8 +59,7 @@ I used Python, Pandas, SQL, MySQL, and Power BI to clean data, perform analysis,
 - Distance From Home vs Attrition
 
 ## Dashboard Preview
-
-
+<img width="3075" height="1763" alt="HR Analytics Employee Attrition" src="https://github.com/user-attachments/assets/40f7c1bd-d0c5-451e-b7e7-ec7a75bd2a9d" />
 
 ## Key Findings
 
@@ -108,4 +107,5 @@ By combining Python, SQL, MySQL, and Power BI, this analysis helps HR department
 ---
 
 **Project:** HR Analytics - Employee Attrition Analysis
+
 **Tools:** Python | Pandas | SQL | MySQL | Power BI
