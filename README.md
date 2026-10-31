@@ -1,5 +1,3 @@
-# HR-Analytics-Employee-Attrition
-
 # HR Analytics - Employee Attrition Analysis
 
 ## Project Overview
@@ -77,7 +75,7 @@ The analysis helps identify employee groups and workplace factors associated wit
 - `HR_Analytics_Employee_Attrition.ipynb` - Python analysis and visualizations.
 - `HR Analytics Employee Attrition.sql` - SQL queries for employee attrition analysis.
 - `HR Analytics Employee Attrition.xlsx` - Employee dataset.
-- `HR Analytics Employee Attrition.png` - Power BI dashboard screenshot.
+- `HR Analytics Employee Attrition.pbix` - Power BI dashboard.
 
 ## Conclusion
 
