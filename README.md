@@ -88,6 +88,17 @@ The analysis helps identify employee groups and workplace factors associated wit
 - `HR Analytics Employee Attrition.xlsx` - Employee dataset.
 - `HR Analytics Employee Attrition.pbix` - Power BI dashboard.
 
+## What I Learned
+
+Through this project, I gained practical experience in:
+
+- Cleaning and analyzing real-world employee data.
+- Using Python and Pandas for data analysis.
+- Writing SQL queries in MySQL.
+- Creating interactive dashboards using Power BI.
+- Identifying patterns and trends in employee attrition.
+- Converting analytical results into meaningful business insights.
+
 ## Conclusion
 
 This project demonstrates how data analytics tools can be used to understand employee attrition and discover meaningful business insights.
