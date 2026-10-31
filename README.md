@@ -1,4 +1,15 @@
-# HR Analytics - Employee Attrition Analysis
+# HR Analytics | Employee Attrition Analysis
+
+<p align="center">
+  <b>Turning Employee Data into Meaningful Business Insights</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python" />
+  <img src="https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
 
 ## Project Overview
 
